@@ -7,6 +7,8 @@ A web app that models monthly recruiting revenue and interview capacity.
   - **Solutions for the bottlenecks** - says which limits to raise, how much, what it costs, and shows the best plan after the fix.
 - **Interview queue** - M/M/s queueing model, with cost saved against your current team and ways to cut the wait.
 
+[![Open in Streamlit](https://streamlit.io)](https://talentflowanalytics-suqxb68cqsnhqls4zzhirj.streamlit.app/)
+
 ## Files
 
 | File | What it is |
