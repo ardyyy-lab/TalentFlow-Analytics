@@ -26,18 +26,6 @@ Each page has two steps: **1. Enter your numbers**, then **2. Your results**, wh
 (Best plan, Profit gained, Bottleneck fixes, Limits and sensitivity, Charts for the planner; Recommendation,
 Cost saved, Solutions for the wait, Compare team sizes for the queue).
 
-## What's new: profit gained, cost saved, bottleneck solutions
-
-**Placement planner**
-- A new optional **Current hires** column in the job table. Fill it in to see profit gained per month and per year, fees gained, and cost per hire saved by switching to the best plan.
-- A new **Fix the bottlenecks** box. Enter the most extra recruiter hours, candidates and sourcing budget you could add, and what each costs. The planner adds capacity only where the extra fees beat the extra cost, then shows what to add, the cost, the profit gained, the new plan and what still holds it back.
-
-**Interview queue**
-- A new **Interviewers you have today** input. Cost saved is measured against that team, with the pay change and the lost-candidate cost saved shown separately.
-- A new **Solutions for the wait** table: more interviewers, faster interviews, or spreading out arrivals.
-
-The cost figures in both tabs are placeholders. Replace them with your own numbers. `test_model.py` checks the new results too.
-
 ## Run it on your computer
 
 1. Install Python 3.10 or newer from https://www.python.org/downloads/ (on Windows, tick "Add Python to PATH").
