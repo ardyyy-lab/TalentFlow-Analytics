@@ -8,7 +8,7 @@ A web app that models monthly recruiting revenue and interview capacity.
 - **Interview queue** - M/M/s queueing model, with cost saved against your current team and ways to cut the wait.
 
 <a href="https://talentflowanalytics-suqxb68cqsnhqls4zzhirj.streamlit.app/">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="42">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="70">
 </a>
 
 ## Files
